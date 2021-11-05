@@ -3,7 +3,7 @@
 <image src="./images/bill-gates-money.png">
   
 
-  #Bill Gates'in Parasını Harcama Uygulaması
+  # Bill Gates'in Parasını Harcama Uygulaması
   
 Ornek verelim,
 Bill Gates'in parası Number.MAX_SAFE_INTEGER olsun. Aşağıdaki ürün listesini (productList) kullanarak bu parayı harcayabileceğimiz bir uygulama yapalım.
